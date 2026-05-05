@@ -1,2 +1,2 @@
 # wireless-dev
-GitHub repository for Wireless RF and PMU specific control library
+GitHub repository for Wireless RF , PMU and crypto specific control library
